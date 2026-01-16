@@ -1,3 +1,4 @@
 # first_repo
 this is my first repo
-this is first update
+i made my first mini project 
+it is basically a spotify clone 
